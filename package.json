@@ -1,6 +1,6 @@
 {
   "name": "@atlex/log",
-  "version": "0.1.0-beta",
+  "version": "0.1.1",
   "description": "Structured logging for Atlex",
   "type": "module",
   "license": "MIT",
