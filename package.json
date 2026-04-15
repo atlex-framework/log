@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atlex-framework/atlex-monorepo.git",
+    "url": "git+https://github.com/atlex-framework/log.git",
     "directory": "packages/log"
   },
   "homepage": "https://atlex.dev",
   "bugs": {
-    "url": "https://github.com/atlex-framework/atlex-monorepo/issues"
+    "url": "https://github.com/atlex-framework/log/issues"
   },
   "publishConfig": {
     "access": "public"
