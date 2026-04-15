@@ -11,6 +11,20 @@
   "keywords": [
     "atlex",
     "logging",
+    "logger",
+    "log",
+    "structured-logging",
+    "log-rotation",
+    "daily-rotation",
+    "file-logging",
+    "console-logging",
+    "multi-channel-logging",
+    "winston-alternative",
+    "pino-alternative",
+    "laravel-logging",
+    "laravel-alternative",
+    "nodejs",
+    "javascript",
     "typescript"
   ],
   "engines": {
