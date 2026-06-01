@@ -1,6 +1,6 @@
 {
   "name": "@atlex/log",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "description": "Structured logging for Atlex",
   "type": "module",
   "license": "MIT",
@@ -65,8 +65,8 @@
     }
   },
   "peerDependencies": {
-    "@atlex/config": "workspace:*",
-    "@atlex/core": "workspace:*"
+    "@atlex/config": "workspace:>=0.2.0",
+    "@atlex/core": "workspace:>=0.2.0"
   },
   "dependencies": {
     "@atlex/config": "workspace:*",
